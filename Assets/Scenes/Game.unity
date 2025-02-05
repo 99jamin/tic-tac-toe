@@ -864,7 +864,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e709492ab47e9ba4a8efbb9a5449eab1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startPanelController: {fileID: 0}
+  startPanelController: {fileID: 1578723397}
 --- !u!1001 &844092893
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1215,7 +1215,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockController: {fileID: 1133544798}
-  startPanel: {fileID: 1578723393}
+  panelManager: {fileID: 0}
 --- !u!4 &1522847062
 Transform:
   m_ObjectHideFlags: 0
